@@ -8,4 +8,7 @@
 |\ \  
 | * | 6f45e3d (refunds) Додати правило повернення коштів
 
-Відхилений пуш хотів, щоб ми запулили зміни. Я запулила зміни.
+1) Відхилений пуш хотів, щоб ми запулили зміни. Я запулила зміни.
+
+2) laptop-a        git@github.com:AdriDov/Porojnuy-pruvatnuy-repo.git (fetch)
+   laptop-a        git@github.com:AdriDov/Porojnuy-pruvatnuy-repo.git (push)
